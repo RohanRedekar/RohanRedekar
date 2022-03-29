@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://static.javatpoint.com/blog/images/mern-stack.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://res.cloudinary.com/practicaldev/image/fetch/s--0FRJGdyZ--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/epv55hgtsfi8csprpj9u.jpg" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rohan Redekar</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
