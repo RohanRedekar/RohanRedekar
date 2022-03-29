@@ -2,8 +2,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rohan Redekar</h1>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<a href="https://github.com/durgeshrai633/readme-typing-svg"><img
-        src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=true&width=400&height=50"></a>
 
 <p align="center"> <a href="https://github.com/RohanRedekar/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=RohanRedekar">
