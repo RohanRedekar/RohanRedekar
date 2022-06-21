@@ -1,15 +1,15 @@
 <a href="#"><img width="100%" height="auto" src="https://res.cloudinary.com/practicaldev/image/fetch/s--0FRJGdyZ--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/epv55hgtsfi8csprpj9u.jpg" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rohan Redekar</h1>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40">, I'm Rohan Redekar</h1>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"/>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Kohl's Clone](https://kohls-onlineshopping.netlify.app/)**
+- 🔭 I’m currently working on **[Ideacart Clone](ideacartclone.netlify.app)**
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://www.linkedin.com/in/rohan-redekar/)**
+- 👨‍💻 All of my projects are available at **[LinkedIn](https://www.linkedin.com/in/rohan-redekar/)**,**[My Portfolio](https://rohan-redekar-o2etn4db2-rohanredekar.vercel.app/)**
 
 - 📫 How to reach me **rohanredekar100@gmail.com**
 
