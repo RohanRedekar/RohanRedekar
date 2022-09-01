@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Bellroy Clone]([bellroy-clone-af48yfid6-rohanredekar.vercel.app](https://vercel.com/rohanredekar/bellroy-clone/CZZen7qZ4wpu9F1aq7MA4sNRofAY))**
+- 🔭 I’m currently working on **[Bellroy Clone]([bellroy-clone-af48yfid6-rohanredekar.vercel.app](https://vercel.com/rohanredekar/bellroy-clone/CZZen7qZ4wpu9F1aq7MA4sNRofAY)**
 
 - 🌱 I’m currently learning **React.js**
 
